@@ -1,0 +1,36 @@
+body {
+  font-family: 'Amiri', serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+  color: #3a2a47;
+  text-align: center;
+}
+
+.page {
+  padding: 100px 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.poem {
+  font-size: 1rem;
+  margin: 5px 0 15px;
+}
